@@ -1,5 +1,6 @@
 require "bundler/setup"
 require "lazy_sort_by"
+require "enumerable"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
